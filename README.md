@@ -6,7 +6,7 @@
 ##
 
 <div style="display: inline_block"><br>
-    <img align="center" height="30" width="30" src="https://pt.m.wikipedia.org/wiki/Vue.js#/media/Ficheiro%3AVue.js_Logo_2.svg">    
+    <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">    
     <img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png">
     <img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
     <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg">
