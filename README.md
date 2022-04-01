@@ -21,10 +21,10 @@
     <a href = "mailto:contato@orbti.com.br">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/brunasrbrito/" target="_blank">
+    <a href="https://grabify.link/0QBKZA" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>  
-    <a href="https://www.orbti.com.br/" target="_blank">
+    <a href="https://grabify.link/NQ4J9Q" target="_blank">
         <img src="https://img.shields.io/badge/-Website-%f95353?style=for-the-badge&logo=chrome&logoColor=white&color=f95353" target="_blank">
     </a>  
 </div>
